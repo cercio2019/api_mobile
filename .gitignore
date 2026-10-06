@@ -1,0 +1,5 @@
+node_modules/
+.env
+uploads/productos/*
+!uploads/productos/.gitkeep
+npm-debug.log
